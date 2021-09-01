@@ -42,6 +42,9 @@ $ cd sherlock
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
+$ python3 sherlock --timeout 1 phoebenyarku
+$ls
+$cat phoebenyarku.txt
 ```
 
 
