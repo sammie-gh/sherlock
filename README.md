@@ -42,9 +42,9 @@ $ cd sherlock
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
-$ python3 sherlock --timeout 1 phoebenyarku
+$ python3 sherlock --timeout 1 username
 $ls
-$cat phoebenyarku.txt
+$cat username.txt
 ```
 
 
